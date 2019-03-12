@@ -131,3 +131,6 @@ venv.bak/
 
 /.idea/
 /scala-design-patterns-jython-command/scala-design-patterns-jython-command.iml
+.settings/
+.project
+.classpath
